@@ -3,7 +3,6 @@ A top-down RPG about a knight saving the princess from a dragon. My first Godot 
 
 <p align="center">
   <img src="public/rookie-knight.png" alt="Rookie Knight RPG Screenshot" width="500"/>
-  ### Development in progress.
 </p>
-
-
+<br>
+ ### Development in progress.
